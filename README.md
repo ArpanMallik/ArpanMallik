@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpanmallik2002@gmail.com**
 
-- ⚡ Motto **Eat. Code. Sleep**
+- ⚡ Moto **Eat. Code. Sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
