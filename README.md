@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpan Mallik</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **final year project**
+- 🔭 I’m currently looking for new oppertunity 
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **PowerBI**
 
-- 👯 I’m looking to collaborate on **android projects**
+- 👯 I’m looking to collaborate on **WEB projects**
 
 - 🤝 I’m looking for help with **hackathons**
 
