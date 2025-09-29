@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for new oppertunity 
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **........**
 
 - 👯 I’m looking to collaborate on **WEB projects**
 
